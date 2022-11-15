@@ -1,0 +1,3 @@
+Data;Time;Internet connection;HTTP conntection;Average ping (ms);Ping to router (ms);Total packets;Packet success, %;Packet loss, %;Router IP;Ping to vk.com;
+08.11.2022;15:30;True;True;77;1;20;100;0;192.168.0.1;77;
+08.11.2022;18:03;True;True;24;1;20;100;0;192.168.0.1;24;
